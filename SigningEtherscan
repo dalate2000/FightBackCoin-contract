@@ -1,0 +1,16 @@
+Message: 
+
+[Etherscan.io 17/05/2019 02:59:24] I, hereby verify that the information provided is accurate and I am the owner/creator of the token contract address [0xe7d269c682d4693a0fa5b1d419bc3c860890c22f]
+
+
+
+
+Signature:
+
+{
+  "address": "0xa35514a419d9807905778300b8f547c2b2e8c4ae",
+  "msg": "[Etherscan.io 17/05/2019 02:59:24] I, hereby verify that the information provided is accurate and I am the owner/creator of the token contract address [0xe7d269c682d4693a0fa5b1d419bc3c860890c22f]",
+  "sig": "0xfd8f1ff8f60ea554a416b3079b4eeb34d153eb755d3c10a50b4c2a1ad1b272ff0d54ace0e3164809b617b9991c23f6636c75861358b079833e090fe0e6640f481b",
+  "version": "3",
+  "signer": "web3"
+}
